@@ -1,0 +1,3 @@
+include 'BusbySocialRecipes'
+project(':BusbySocialRecipes').projectDir = new File('app')
+
