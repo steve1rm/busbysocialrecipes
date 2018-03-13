@@ -1,4 +1,4 @@
-include ':domain', ':data', ':data', ':instantapp'
+include ':data', ':domain'
 include 'BusbySocialRecipes'
 project(':BusbySocialRecipes').projectDir = new File('app')
 
