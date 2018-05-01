@@ -1,7 +1,8 @@
-package me.androidbox.busbysocialrecipes
+package me.androidbox.busbysocialrecipes.home
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import me.androidbox.busbysocialrecipes.R
 
 class HomeActivity : AppCompatActivity() {
 
