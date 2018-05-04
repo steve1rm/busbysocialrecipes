@@ -1,7 +1,6 @@
-package me.androidbox.domain.usecases
+package me.androidbox.domain.core
 
 import io.reactivex.Observable
-import me.androidbox.domain.core.Transformer
 
 abstract class UseCase<T>(private val transformer: Transformer<T>) {
 
